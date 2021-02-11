@@ -1,6 +1,6 @@
 {
-    "current_program_scene": "waiting",
-    "current_scene": "waiting",
+    "current_program_scene": "3_personnes",
+    "current_scene": "3_personnes",
     "current_transition": "Fondu",
     "groups": [],
     "modules": {
@@ -2324,7 +2324,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "device_id": "{0.0.1.00000000}.{90bb4f6a-f35f-49c9-bc83-55d26e98adae}"
+                "device_id": "{0.0.1.00000000}.{43db9747-738a-43fe-b285-dec8e92cb920}"
             },
             "sync": 0,
             "versioned_id": "wasapi_input_capture",
