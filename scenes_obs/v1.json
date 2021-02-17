@@ -1,6 +1,6 @@
 {
-    "current_program_scene": "3_personnes",
-    "current_scene": "3_personnes",
+    "current_program_scene": "prez_cam",
+    "current_scene": "prez_cam",
     "current_transition": "Fondu",
     "groups": [],
     "modules": {
@@ -210,14 +210,14 @@
                         "locked": false,
                         "name": "gif",
                         "pos": {
-                            "x": 1105.0,
-                            "y": 278.0
+                            "x": 1096.0,
+                            "y": 265.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 1.2999999523162842,
-                            "y": 1.2999999523162842
+                            "x": 1.730088472366333,
+                            "y": 1.730088472366333
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -337,7 +337,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 15,
+                "id_counter": 16,
                 "items": [
                     {
                         "align": 5,
@@ -422,35 +422,6 @@
                         "scale": {
                             "x": 1.0,
                             "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 4,
-                        "locked": true,
-                        "name": "logovide",
-                        "pos": {
-                            "x": 1682.0,
-                            "y": 896.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.24586288630962372,
-                            "y": 0.24563953280448914
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -625,6 +596,35 @@
                         "scale": {
                             "x": 0.77249997854232788,
                             "y": 0.77333331108093262
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 16,
+                        "locked": false,
+                        "name": "logovide",
+                        "pos": {
+                            "x": 1684.0,
+                            "y": 862.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.10899999737739563,
+                            "y": 0.10899999737739563
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -972,7 +972,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 20,
+                "id_counter": 21,
                 "items": [
                     {
                         "align": 5,
@@ -1028,35 +1028,6 @@
                         "scale": {
                             "x": 1.0,
                             "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 16,
-                        "locked": false,
-                        "name": "logovide",
-                        "pos": {
-                            "x": 1682.0,
-                            "y": 896.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.24586288630962372,
-                            "y": 0.24563953280448914
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1205,6 +1176,35 @@
                         },
                         "scale_filter": "disable",
                         "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 21,
+                        "locked": false,
+                        "name": "logovide",
+                        "pos": {
+                            "x": 1684.0,
+                            "y": 862.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.10899999737739563,
+                            "y": 0.10899999737739563
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
                     }
                 ]
             },
@@ -1349,7 +1349,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 26,
+                "id_counter": 27,
                 "items": [
                     {
                         "align": 5,
@@ -1405,35 +1405,6 @@
                         "scale": {
                             "x": 1.0,
                             "y": 1.0
-                        },
-                        "scale_filter": "disable",
-                        "visible": true
-                    },
-                    {
-                        "align": 5,
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_align": 0,
-                        "bounds_type": 0,
-                        "crop_bottom": 0,
-                        "crop_left": 0,
-                        "crop_right": 0,
-                        "crop_top": 0,
-                        "group_item_backup": false,
-                        "id": 4,
-                        "locked": true,
-                        "name": "logovide",
-                        "pos": {
-                            "x": 1682.0,
-                            "y": 896.0
-                        },
-                        "private_settings": {},
-                        "rot": 0.0,
-                        "scale": {
-                            "x": 0.24586288630962372,
-                            "y": 0.24563953280448914
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -1582,6 +1553,35 @@
                         },
                         "scale_filter": "disable",
                         "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 27,
+                        "locked": false,
+                        "name": "logovide",
+                        "pos": {
+                            "x": 1684.0,
+                            "y": 862.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 0.10899999737739563,
+                            "y": 0.10899999737739563
+                        },
+                        "scale_filter": "disable",
+                        "visible": true
                     }
                 ]
             },
@@ -1658,7 +1658,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "C:/Users/romai/Documents/Reclus aux Confins/visioconfs/visuels/logovide.png"
+                "file": "C:/Users/romai/Documents/Reclus aux Confins/visioconfs/visuels/logo_transpmini.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -1774,14 +1774,14 @@
                         "locked": false,
                         "name": "gif",
                         "pos": {
-                            "x": 1108.0,
-                            "y": 32.0
+                            "x": 1141.0,
+                            "y": 29.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 1.2999999523162842,
-                            "y": 1.2999999523162842
+                            "x": 1.5110619068145752,
+                            "y": 1.5110619068145752
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2067,17 +2067,17 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 3,
-                        "locked": true,
+                        "locked": false,
                         "name": "logovide",
                         "pos": {
-                            "x": 1682.0,
-                            "y": 896.0
+                            "x": 1684.0,
+                            "y": 862.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
                         "scale": {
-                            "x": 0.24586288630962372,
-                            "y": 0.24563953280448914
+                            "x": 0.10899999737739563,
+                            "y": 0.10899999737739563
                         },
                         "scale_filter": "disable",
                         "visible": true
@@ -2099,8 +2099,8 @@
                         "locked": false,
                         "name": "nom2 2",
                         "pos": {
-                            "x": 773.0,
-                            "y": 14.875
+                            "x": 1085.0,
+                            "y": 19.875
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -2293,7 +2293,7 @@
                 "gradient_color": 4294912415,
                 "outline": true,
                 "outline_size": 6,
-                "text": "Bienvenue à la première des reclus aux confins !",
+                "text": "Titre",
                 "valign": "center"
             },
             "sync": 0,
